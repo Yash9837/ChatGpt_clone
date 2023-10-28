@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ChatGpt_clone/static/css/main.6135cd6c.css",
+    "main.js": "/ChatGpt_clone/static/js/main.bdc59761.js",
+    "static/media/user-icon.png": "/ChatGpt_clone/static/media/user-icon.79487ebd1120a8a7b004.png",
+    "static/media/chatgpt.svg": "/ChatGpt_clone/static/media/chatgpt.4c8727aa9bdbf99f9994196451794f61.svg",
+    "static/media/chatgptLogo.svg": "/ChatGpt_clone/static/media/chatgptLogo.496558ea071637d128587cb98b0e1b1c.svg",
+    "static/media/rocket.svg": "/ChatGpt_clone/static/media/rocket.3083828716c5d7716f71aa7e179555de.svg",
+    "static/media/send.svg": "/ChatGpt_clone/static/media/send.5cc05986cf306ae5d4ce38bf6fdc3def.svg",
+    "static/media/bookmark.svg": "/ChatGpt_clone/static/media/bookmark.c2178bf87e70a458757ba7290cea3ce7.svg",
+    "index.html": "/ChatGpt_clone/index.html",
+    "static/media/home.svg": "/ChatGpt_clone/static/media/home.54b8621214269a989c8b7627385bcd8a.svg",
+    "static/media/message.svg": "/ChatGpt_clone/static/media/message.ef36f79693990ff17ecf42cd018fcb4e.svg",
+    "main.6135cd6c.css.map": "/ChatGpt_clone/static/css/main.6135cd6c.css.map",
+    "main.bdc59761.js.map": "/ChatGpt_clone/static/js/main.bdc59761.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6135cd6c.css",
+    "static/js/main.bdc59761.js"
+  ]
+}
